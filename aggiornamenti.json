@@ -1,5 +1,5 @@
 {
-  "versione": "3.0 — 20 agosto 2026",
-  "zip": "https://github.com/augustomassaro-lgtm/Lichess-monitor/releases/download/v3.0/lichess-live-monitor.pacchetto",
-  "note": "Punteggio e posizione in classifica aggiornati a ogni partita"
+  "versione": "3.1 — 20 agosto 2026",
+  "zip": "https://github.com/augustomassaro-lgtm/Lichess-monitor/releases/download/v3.1/lichess-live-monitor.pacchetto",
+  "note": "Pubblicazione degli aggiornamenti automatica, con un doppio click"
 }
