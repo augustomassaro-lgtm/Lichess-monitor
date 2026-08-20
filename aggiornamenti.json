@@ -1,5 +1,5 @@
 {
-  "versione": "3.5 — 20 agosto 2026",
-  "zip": "https://github.com/augustomassaro-lgtm/Lichess-monitor/releases/download/v3.5/lichess-live-monitor.pacchetto",
-  "note": "Accanto al punteggio l'andamento delle ultime 30 partite"
+  "versione": "3.6 — 20 agosto 2026",
+  "zip": "https://github.com/augustomassaro-lgtm/Lichess-monitor/releases/download/v3.6/lichess-live-monitor.pacchetto",
+  "note": "Freccia dell'andamento piu' leggibile"
 }
