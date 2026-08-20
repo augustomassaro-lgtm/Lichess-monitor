@@ -1,5 +1,5 @@
 {
-  "versione": "3.8 — 20 agosto 2026",
-  "zip": "https://github.com/augustomassaro-lgtm/Lichess-monitor/releases/download/v3.8/lichess-live-monitor.pacchetto",
-  "note": "I cambi non vengono piu' scambiati per pezzi regalati; mosse mai duplicate"
+  "versione": "3.9 — 20 agosto 2026",
+  "zip": "https://github.com/augustomassaro-lgtm/Lichess-monitor/releases/download/v3.9/lichess-live-monitor.pacchetto",
+  "note": "La pastiglia dei punti ora spiega cosa significa, al passaggio o al clic"
 }
