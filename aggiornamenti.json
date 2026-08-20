@@ -1,5 +1,5 @@
 {
-  "versione": "3.2 — 20 agosto 2026",
-  "zip": "https://github.com/augustomassaro-lgtm/Lichess-monitor/releases/download/v3.2/lichess-live-monitor.pacchetto",
-  "note": "Le fasce orarie occupano una riga sola finche' non dicono qualcosa di vero"
+  "versione": "3.3 — 20 agosto 2026",
+  "zip": "https://github.com/augustomassaro-lgtm/Lichess-monitor/releases/download/v3.3/lichess-live-monitor.pacchetto",
+  "note": "Le fasce orarie si sono spostate dentro \"Analizza le mie mosse\""
 }
